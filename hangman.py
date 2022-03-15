@@ -1,3 +1,6 @@
+# The words file and the code file must be kept in same folder in order for them to run
+
+
 #coding challenge 2 hagman.py
 
 
